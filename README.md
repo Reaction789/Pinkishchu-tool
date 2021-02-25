@@ -1,5 +1,5 @@
 # Pinkishchu-tool
-I hope u return me
+
 1.pkg install git
 2.pkg install python2
 3.pkg install php
